@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://www.not.legal/$1"
+      "destination": "https://a.not.legal/$1"
  }
   ]
 }
